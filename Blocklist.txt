@@ -618,3 +618,11 @@ zonacraft.net
 0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 us.rdx2.lgtvsdp.com
 0.0.0.0 mediaservices.cdn-apple.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 cdn-media.brightline.tv
+0.0.0.0 na-ssp-pix.adstk.io
+0.0.0.0 cws.conviva.com
+0.0.0.0 api.axiom.co
+0.0.0.0 api.ipify.org
